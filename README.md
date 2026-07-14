@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Mohammed Hisham 👋
 
-<!--
-**hishamy111/hishamy111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## IoT & Embedded Systems Developer
 
-Here are some ideas to get you started:
+I design and develop ESP32-based IoT systems for renewable energy and industrial automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+
+- Embedded Systems
+- Industrial IoT
+- Renewable Energy
+- Smart Microgrids
+- ESP32 Development
+- Automation Systems
+
+### Featured Projects
+
+- Wind Turbine Monitoring System
+- Smart Microgrid Controller
+
+### Technologies
+
+- ESP32
+- C++
+- Arduino IDE
+- INA226
+- HTML
+- Wi-Fi
+- EasyEDA
+
+### Contact
+
+📧 hishamy111@gmail.com
+
+📍 Dubai, UAE
